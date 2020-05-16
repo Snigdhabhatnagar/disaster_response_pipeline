@@ -39,5 +39,5 @@ Project is divided into 3 folders:
 3. Go to http://0.0.0.0:3001/
     
 <a id="licensing"></a>
-## Licensing,Authors,and Acknowledgements
+### Licensing,Authors,and Acknowledgements
 Data used in the project is provided by Figure Eight which contains labelled and categorised messages into different categories.
