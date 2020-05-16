@@ -132,7 +132,7 @@ def main():
         model = build_model()
         
         print('Training model...')
-        model.fit(X_train[0:700], Y_train[0:700])
+        model.fit(X_train, Y_train)
         
         print('Evaluating model...')
         evaluate_model(model, X_test, Y_test, category_names)
